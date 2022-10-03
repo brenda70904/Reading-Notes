@@ -54,7 +54,7 @@ decide what do you want to accomplish with it.
 ### What is the most important question to answer when designing a Website?
 What is the priority. What is the most important thing needs to be done first. 
 
-### Why should you use an <h1> element over a <span> element to display a top level heading?
+### Why should you use an `<h1>` element over a `<span>` element to display a top level heading?
 Because span tag does not have semantic value. 
   
 ### What are the benefits of using semantic tags in our HTML?
