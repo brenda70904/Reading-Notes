@@ -6,10 +6,13 @@
 Client use browser send an HTTP request to servers, the request and all other data send between client and the server is sent accorss internet connection using TCP/IP.
 After server approve the reques, it will start sending the webliste's files to the borwser called data packets.  
 ![Clients and servers image](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works/simple-client-server.png)
+  - image from [How the web works](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
 
 ### how does HTML, CSS, and JS files are “parsed” in the browser.
 first th browser parses the HTML file, and then browser will start to check if there's any `<link>`-element references to external CSS stylesheets and any `<script>`-element references to scripts.While browser parses the HTML, it sends requests back to the server for any CSS files it has found from `<link>` elements, and any JavaScript files it has found from `<script>` elements, and from those, then parses the CSS and JavaScript.Then, browser generates an in-memory DOM tree from the parsed HTML, and parsed CSS, and compiles and executes the parsed JavaScript.As the browser builds the DOM tree and applies the styles from the CSSOM tree and executes the JavaScript, a visual representation of the page is painted to the screen, and the user sees the page content and can begin to interact with it.
 
+   [How the web works](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
+  
 ### How can you find images to add to a Website?
 1. find the image you want to use
 2. save the image
@@ -29,6 +32,7 @@ HTML : HyperText Markup Language. HTML is a markup language that tess web bowese
 ### Describe the Anatomy of an HTML element.
 the anatomy of HTML element is the opening tag and closing tag that programmer write the content in btweeen the tag. 
 ![elelment](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started/grumpy-cat-small.png)
+  - image from [Getting started with HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
 
 ### Difference between `<article>` and `<section>` element tags
 The section tag defines sections in a document, such as chapters, headers, footers, or any other sections of the document.The article tag specifies independent, self-contained content.
@@ -40,12 +44,16 @@ The section tag defines sections in a document, such as chapters, headers, foote
 - sidebar
 - footer
 
+  [Getting started with HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
+  [Document and website structure](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure)
+
 ### How does metadata influence Search Engine Optimization?
 This helps search engines better understand the topic of your webpages and content. It also helps them display more relevant results to searchers
 
 ### How is the `<meta>` HTML tag used when specifying metadata?
 <meta> tag specifies the document's character encoding.
-
+    
+   [Metadata in HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML)
 
 ## Miscellaneous
 ### What is the first step to designing a Website?
@@ -53,6 +61,8 @@ decide what do you want to accomplish with it.
 
 ### What is the most important question to answer when designing a Website?
 What is the priority. What is the most important thing needs to be done first. 
+    
+   [How do I start to design my website?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Thinking_before_coding)
 
 ### Why should you use an `<h1>` element over a `<span>` element to display a top level heading?
 Because span tag does not have semantic value. 
@@ -61,6 +71,8 @@ Because span tag does not have semantic value.
 - it influences the page's search ranking
 - give suggestion to developer about what type of datat will be populated 
 - easier to find block of code instead of search code from endless <div> tag
+    
+    [Semantics](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
 
 ### Describe 2 things that require JavaScript in the Browser?
 - store useful data
@@ -69,5 +81,10 @@ Because span tag does not have semantic value.
 ### How can you add JavaScript to an HTML document?
 use <script> tag to link HTML and JavaScript
 
+  [What is JavaScript?](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
+  
 ## Things I want to know more about
   I would like to learn more about how JS work and how does the browser handle the code.
+  
+  
+
