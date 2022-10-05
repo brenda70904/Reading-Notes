@@ -5,7 +5,7 @@
 > ### CODE 201
 - [class_1](./201_notes/class_1.md)
 - [class_2](./201_notes/class_2.md)
-- [class_3]
+- [class_3](./201_notes/class_3.md)
 - [class_4]
 - [class_5]
 - [class_6]
