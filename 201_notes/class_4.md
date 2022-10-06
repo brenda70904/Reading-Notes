@@ -14,6 +14,7 @@ It’s the default layout model of the wb.
 ### What are a few differences between `block-level` and `inline` elements?
 Block respects the top left right and bottom margin but inline doesn't .
 ### ___ positioning is the default for every html element.
+static
 ### Name a few advantages to use absolute positioning on an element.
 It allows you to place the content or element exactly where you want it to be. 
 ### What is a key difference between fixed positioning and absolute positioning
