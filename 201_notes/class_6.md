@@ -10,6 +10,7 @@ Object are evaluated as key: value vs array is just like a container that store 
 When object property name is held in a variable.  
 ### Evaluate the code below. What does the term `this` refer to and what is the advantage to using` this`?
 This refers to the dog object. 
+[JavaScript object basic](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics)
 
 # DOM
 
@@ -18,3 +19,4 @@ DOM - Document Object Model is a platform and language-neutral interface that al
 ### Briefly describe the relationship between the DOM and JavaScript.
 DOM is the model for JS, JS is not going to know what to do on the webpagee. 
 
+[Intro to DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
