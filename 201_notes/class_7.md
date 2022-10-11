@@ -15,6 +15,10 @@ Because it is not set for use as page layouts.
 # Object Prototypes Using A Constructor
 ### Explain prototypes and inheritance via an analogy from your previous work experience.
 NOTE: This is a very common front end developer interview question
+Prototype is a build in property that all JavaScript objects inherit properties and methods from a prototype.
 
+
+[A Beginner's Guide to JavaScript's Prototype](https://ui.dev/beginners-guide-to-javascript-prototype)
+[Object prototypes](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object_prototypes)
 
 
