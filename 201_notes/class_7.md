@@ -19,6 +19,7 @@ Prototype is a build in property that all JavaScript objects inherit properties 
 
 
 [A Beginner's Guide to JavaScript's Prototype](https://ui.dev/beginners-guide-to-javascript-prototype)
+
 [Object prototypes](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object_prototypes)
 
 
