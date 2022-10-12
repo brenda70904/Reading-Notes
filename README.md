@@ -9,8 +9,8 @@
 - [class_4](./201_notes/class_4.md)
 - [class_5](./201_notes/class_5.md)
 - [class_6](./201_notes/class_6.md)
-- [class_7]
-- [class_8]
+- [class_7](./201_notes/class_7.md)
+- [class_8](./201_notes/class_8.md)
 - [class_9]
 - [class_10]
 - [class_11]
