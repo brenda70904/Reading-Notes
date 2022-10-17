@@ -21,5 +21,7 @@ The srcset and sizes attributes work together to create responsive images.
 The srcset and sizes attributes work together to create responsive images. 
 
 [Responsive images](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images)
+    
 [CSS Grid Container](https://www.w3schools.com/css/css_grid_container.asp)
+
 [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
