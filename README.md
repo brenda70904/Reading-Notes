@@ -13,7 +13,7 @@
 - [class_8](./201_notes/class_8.md)
 - [class_9](./201_notes/calss_9.md)
 - [class_10](./201_notes/class_10.md)
-- [class_11]
+- [class_11](./201_notes/class_11.md)
 - [class_12]
 - [class_13]
 - [class_14]
