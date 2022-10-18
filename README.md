@@ -14,7 +14,7 @@
 - [class_9](./201_notes/calss_9.md)
 - [class_10](./201_notes/class_10.md)
 - [class_11](./201_notes/class_11.md)
-- [class_12]
+- [class_12](./201_notes/class_12.md)
 - [class_13]
 - [class_14]
 - [class_15]
