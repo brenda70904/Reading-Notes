@@ -1,4 +1,4 @@
-#Local Storage
+# Local Storage
 
 ### Why would a developer use local storage for a web application?
 So we can store the user information they enter.
