@@ -21,7 +21,7 @@ I want to become a front-end web developer, and knowing how to use these tools i
 
 
 # What Google Learned From Its Quest to Build the Perfect Team
-After reading the article, it got me to start thinking about how we build connections and become a great team when I was working. Now we are going to work as a team and build a project, I believe that this topic is important because sometimes we forgot that people come from different backgrounds, we all have experience, and it’s important to remember that we need to respect each other. This is a great and not that formal article that helps us remember the importance of respecting each other, and keep communicating! 
+After reading the article, it got me to start thinking about how we build connections and become a great team when I was working. Now we are going to work as a team and build a project, I believe that this topic is important because sometimes we forgot that people come from different backgrounds, we all have experience, and it’s important to remember that we need to respect each other. This is a great and not that formal article that helps us remember the importance of respecting each other, and keep communicating to create a safe sapce for everyone. 
 
 ### things I want to know about: How does transform and transtition work with Grid or flexbox? 
 ### things I want ot know about: how would you respond when the environement not allow you to speak freely? How would you change that ? 
