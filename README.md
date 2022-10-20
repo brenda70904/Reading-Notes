@@ -15,6 +15,6 @@
 - [class_10](./201_notes/class_10.md)
 - [class_11](./201_notes/class_11.md)
 - [class_12](./201_notes/class_12.md)
-- [class_13]
-- [class_14]
+- [class_13](./201_notes/class_13.md)
+- [class_14](./201_notes/class_14.md)
 - [class_15]
