@@ -2,8 +2,7 @@
 
 ## Code Fellows - Reading notes
 
-> ### CODE 201
-
+> ### CODE 201 - Foundations of Software Development
 - [class_01](./201_notes/class_1.md)
 - [class_02](./201_notes/class_2.md)
 - [class_03](./201_notes/class_3.md)
@@ -20,8 +19,7 @@
 - [class_14](./201_notes/class_14.md)
 
 
-### CODE 301
-
+### CODE 301 - Intermediate Software Development
 - [class_01]
 - [class_02]
 - [class_03]
