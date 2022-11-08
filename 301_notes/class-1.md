@@ -1,4 +1,4 @@
-# 301 reading note
+# class 01 reading note
 
 ## Component-Based Architecture
 ### What is a “component”?	
