@@ -6,11 +6,13 @@
 Array.map return a new array
 ### If I want to loop through an array and display each value in JSX, how do I do that in React?
 Set a variable to store the array. Ex: let newArr = arr.map()
-### Each list item needs a unique Key
-What is the purpose of a key? Key help react know which item has been updated, changed, or moved. 
+### Each list item needs a unique `Key`
+### What is the purpose of a key? 
+Key help react know which item has been updated, changed, or moved. 
 
 ## The Spread Operator
-What is the spread operator?  The spread operator allows us to copy all or part of the array or object into another array or object quickly.
+### What is the spread operator?  
+The spread operator allows us to copy all or part of the array or object into another array or object quickly.
 ### List 4 things that the spread operator can do. 
 Copy array, concatenate or combine arrays, use with Math functions, and use it as an argument with the array. 
 ### Give an example of using the spread operator to combine two arrays. 
