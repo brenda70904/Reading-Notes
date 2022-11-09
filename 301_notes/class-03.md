@@ -31,8 +31,6 @@ Use props
 Use this.props.functionName
 
 
-(Lists and Keys)[https://reactjs.org/docs/lists-and-keys.html#rendering-multiple-components]
-
-(How to use Spread Operator)[https://medium.com/coding-at-dawn/how-to-use-the-spread-operator-in-javascript-b9e4a8b06fab]
-
-(video: React - How to Pass Functions between Components)[https://www.youtube.com/watch?v=c05OL7XbwXU]
+[Lists and Keys](https://reactjs.org/docs/lists-and-keys.html#rendering-multiple-components)
+[How to use Spread Operator](https://medium.com/coding-at-dawn/how-to-use-the-spread-operator-in-javascript-b9e4a8b06fab)
+[video: React - How to Pass Functions between Components](https://www.youtube.com/watch?v=c05OL7XbwXU)
