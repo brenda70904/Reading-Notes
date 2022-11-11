@@ -24,7 +24,7 @@
 - [class_02](./301_notes/class-02.md)
 - [class_03](./301_notes/class-03.md)
 - [class_04](./301_notes/class-04.md)
-- [class_05]
+- [class_05](./301_notes/class-05.md)
 - [class_06]
 - [class_07]
 - [class_08]
