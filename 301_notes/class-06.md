@@ -30,3 +30,10 @@ Node allows developers to write JavaScript code that runs directly in a computer
 During pair programming, I learn a lot from peers and it has greater efficiency. 
 ### How does pair programming work?
 One be the driver focuses on writing down the code and one is the navigator tells the driver what to do . 
+
+
+[What Is Node and When Should I Use It?](https://www.sitepoint.com/an-introduction-to-node-js/)
+
+[6 Reasons for Pair Programming](https://www.codefellows.org/blog/6-reasons-for-pair-programming/)
+
+[What is Node?](https://www.codecademy.com/article/what-is-node)
