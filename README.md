@@ -25,11 +25,11 @@
 - [class_03](./301_notes/class-03.md)
 - [class_04](./301_notes/class-04.md)
 - [class_05](./301_notes/class-05.md)
-- [class_06]
-- [class_07]
-- [class_08]
-- [class_09]
-- [class_10]
+- [class_06](./301_notes/class-06.md)
+- [class_07](./301_notes/class-07.md)
+- [class_08](./301_notes/class-08.md)
+- [class_09](./301_notes/class-09.md)
+- [class_10](./301_notes/class-10.md)
 - [class_11]
 - [class_12]
 - [class_13]
