@@ -13,5 +13,8 @@ When they are driven by the company's commitment.
 More creative! 
 ### Give an example of how a diverse company can serve a diverse user base or vise-versa.
 Understanding different cultural backgrounds can help the company meet user’s needs, create better user experience.
+
+
 [That Time When Women Stopped Coding](https://www.npr.org/sections/money/2014/10/21/357629765/when-women-stopped-coding)
 
+[Why diversity matters to your tech company](https://www.usatoday.com/story/tech/columnist/2015/07/21/why-diversity-matters-your-tech-company/30419871/)
