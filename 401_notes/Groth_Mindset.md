@@ -20,6 +20,7 @@ I want to know how far I can go in this tech field!
 
 
 references: 
+
 [Upgrade your technical skills with deliberate practice](https://web.archive.org/web/20160616225417/http://www.happybearsoftware.com/upgrade-your-technical-skills-with-deliberate-practice)
 
 [Carol Dweck on the Growth Mindset](https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve?language=en)
