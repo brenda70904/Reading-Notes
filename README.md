@@ -35,5 +35,5 @@
 - [class_13](./301_notes/class-13.md)
 - [class_14](./301_notes/class-14.md)
 
-
-
+> CODE 401 - Adcanced JavaScript
+-[class_01](./401_notes/class_01.md)
