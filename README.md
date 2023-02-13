@@ -2,7 +2,8 @@
 
 ## Code Fellows - Reading notes
 
-> ### CODE 201 - Foundations of Software Development
+> CODE 201 - Foundations of Software Development
+
 - [class_01](./201_notes/class_1.md)
 - [class_02](./201_notes/class_2.md)
 - [class_03](./201_notes/class_3.md)
@@ -20,6 +21,7 @@
 
 
 > CODE 301 - Intermediate Software Development
+
 - [class_01](./301_notes/class-01.md)
 - [class_02](./301_notes/class-02.md)
 - [class_03](./301_notes/class-03.md)
@@ -35,5 +37,8 @@
 - [class_13](./301_notes/class-13.md)
 - [class_14](./301_notes/class-14.md)
 
+
+
 > CODE 401 - Adcanced JavaScript
--[class_01](./401_notes/class_01.md)
+
+- [class_01](./401_notes/class_01.md)
