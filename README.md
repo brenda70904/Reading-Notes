@@ -19,7 +19,7 @@
 - [class_14](./201_notes/class_14.md)
 
 
-### CODE 301 - Intermediate Software Development
+> CODE 301 - Intermediate Software Development
 - [class_01](./301_notes/class-01.md)
 - [class_02](./301_notes/class-02.md)
 - [class_03](./301_notes/class-03.md)
