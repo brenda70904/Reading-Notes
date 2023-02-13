@@ -30,7 +30,10 @@
 - [class_08](./301_notes/class-08.md)
 - [class_09](./301_notes/class-09.md)
 - [class_10](./301_notes/class-10.md)
-- [class_11]
-- [class_12]
-- [class_13]
-- [class_14]
+- [class_11](./301_notes/class-11.md)
+- [class_12](./301_notes/class-12.md)
+- [class_13](./301_notes/class-13.md)
+- [class_14](./301_notes/class-14.md)
+
+
+
