@@ -1,5 +1,5 @@
 
-## Securing Passwords
+## [Securing Passwords](https://thehackernews.com/2014/04/securing-passwords-with-bcrypt-hashing.html)
 
 ### Explain to a non-technical friend how you would safely hash and store a password.
    Hashing turns your password (or any other piece of data) into a short string of letters and/or numbers using an encryption algorithm. If a website is hacked, cyber criminals don't get access to your password. Instead, they just get access to the encrypted “hash” created by your password.
@@ -11,7 +11,7 @@
   To protect confidential data.
 
 
-## Basic Auth
+## [Basic Auth](https://en.wikipedia.org/wiki/Basic_access_authentication)
 
 ### What is Basic Authentication?
   Basic Authentication is a method for an HTTP web browser to provide a username and password when making a request.
@@ -23,10 +23,13 @@
   Use  Base64 encoding of ID and password joined by a single colon `:`
 
   
-## OWASP auth cheatsheet
+## [OWASP auth cheatsheet](https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html)
 
 ### Define the authentication process to a non-technical recruiter.
 Authentication. Users have to prove they are who they say they are.
 
 ### How should your error messaging respond (both HTTP and HTML)? Why?
 It should respond with respond with a generic error message to prevent given hacker too much info 
+
+
+[Basic Authentication](https://www.twilio.com/docs/glossary/what-is-basic-authentication)
