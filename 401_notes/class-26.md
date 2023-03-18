@@ -8,7 +8,7 @@ In React, elements and components are two separate concepts. Elements are plain 
 It has reusable UI elements for your app, easy to  manage.
 
 
-### [introducing JSX](https://legacy.reactjs.org/docs/introducing-jsx.html)
+## [introducing JSX](https://legacy.reactjs.org/docs/introducing-jsx.html)
 
 ### What is JSX and why do we use it?
 JSX is a syntax extension for JavaScript that allows you to write HTML-like code within your JavaScript files. We use JSX in React because it simplifies the process of creating and manipulating React elements, making the code easier to read and write.
@@ -18,7 +18,7 @@ In JSX, you can embed JavaScript expressions by enclosing them in curly braces {
 No, to prevent xss attack , Everything is converted to a string before being rendered. 
 
 
-### [rendering elements](https://legacy.reactjs.org/docs/rendering-elements.html)
+## [rendering elements](https://legacy.reactjs.org/docs/rendering-elements.html)
 
 ### Explain what a React Component is to a non-technical friend.
 Imagine playing with a set of Legos where each piece is like a small machine. A React Component is like a Lego piece that has its own set of rules and behaviors, and you can snap together different pieces to create a big, awesome machine (or website!) that does cool things.
